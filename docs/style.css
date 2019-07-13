@@ -1,0 +1,10 @@
+body{
+    /* 本文は中央揃え */
+    text-align: center
+}
+footer{
+    /* フッタと本文の間をあける */
+    margin-top: 50px; 
+    /* 文章は左揃え */
+    text-align: left;
+}
